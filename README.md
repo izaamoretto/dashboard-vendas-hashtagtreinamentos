@@ -1,4 +1,4 @@
-![Dashboard de Vendas](images/DashboardDeVendas.png)
+![Dashboard de Vendas](DashboardDeVendas.png)
 
 # 📊 Dashboard de Vendas - Hashtag Treinamentos
 

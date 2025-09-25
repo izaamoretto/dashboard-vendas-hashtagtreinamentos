@@ -18,9 +18,6 @@ O dashboard permite acompanhar de forma clara e visual:
 - **Faturamento por Região:** mapa interativo mostrando as regiões mais lucrativas.
 - **Faturamento por Marca:** comparação entre as principais marcas.
 
-## 🖼️ Preview do Dashboard
-![Dashboard de Vendas](images/DashboardDeVendas.png)
-
 ## 🗂️ Estrutura do Repositório
 - `DashboardVendas-HashtagTreinamentos.pbix` → Arquivo do projeto em Power BI.
 
